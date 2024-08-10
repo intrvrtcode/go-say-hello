@@ -1,5 +1,5 @@
 package gosayhello
 
-func SayHello(name string) string {
-	return "Selamat Datang " + name
+func SayHello() string {
+	return "Selamat Datang di project belajar golang"
 }
